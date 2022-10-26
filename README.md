@@ -1,4 +1,4 @@
-
+![logo](https://github.com/biahudaom/biahudaom/blob/main/311451330_1225362938023147_8146626944247272547_n.jpg)
 <h1 align="center">Hi 👋, I'm Tran Kim Dat</h1>
 <h3 align="center">A passionate front-end developer from Vietnam</h3>
 <img align="right" alt="Coding Guy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif"
