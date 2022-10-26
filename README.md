@@ -1,11 +1,9 @@
-![logo](https://github.com/biahudaom/biahudaom/blob/main/coding-1.png)
-![logo](https://github.com/biahudaom/biahudaom/blob/main/coding.png)
-![logo](https://github.com/biahudaom/biahudaom/blob/main/coding-2.png)
-![logo](https://github.com/biahudaom/biahudaom/blob/main/coding-3.png)
+<img align="center" alt="Coding Guy-1" width="2000" src="https://github.com/biahudaom/biahudaom/raw/main/coding.png"/>
+
 
 <h1 align="center">Hi 👋, I'm Tran Kim Dat</h1>
 <h3 align="center">A passionate front-end developer from Vietnam</h3>
-<img align="right" alt="Coding Guy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif"
+<img align="right" alt="Coding Guy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biahudaom&label=Profile%20views&color=0e75b6&style=flat" alt="biahudaom" /> </p>
 
