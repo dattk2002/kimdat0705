@@ -1,7 +1,7 @@
 ![logo](https://github.com/biahudaom/biahudaom/blob/main/coding-1.png)
 ![logo](https://github.com/biahudaom/biahudaom/blob/main/coding.png)
 ![logo](https://github.com/biahudaom/biahudaom/blob/main/coding-2.png)
-![logo](https://github.com/biahudaom/biahudaom/blob/main/coding-3).jfif)
+![logo](https://github.com/biahudaom/biahudaom/blob/main/coding-3.jfif)
 
 <h1 align="center">Hi 👋, I'm Tran Kim Dat</h1>
 <h3 align="center">A passionate front-end developer from Vietnam</h3>
