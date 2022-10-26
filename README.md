@@ -1,6 +1,5 @@
 <img align="center" alt="Coding Guy-1" width="2000" src="https://github.com/biahudaom/biahudaom/blob/main/coding.svg"/>
 
-
 <h1 align="center">Hi 👋, I'm Tran Kim Dat</h1>
 <h3 align="center">A passionate front-end developer from Vietnam</h3>
 <img align="right" alt="Coding Guy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif"/>
