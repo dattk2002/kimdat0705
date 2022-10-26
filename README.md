@@ -1,4 +1,4 @@
-<img align="center" alt="Coding Guy-1" width="2000" src="https://github.com/biahudaom/biahudaom/raw/main/coding.png"/>
+<img align="center" alt="Coding Guy-1" width="2000" src="https://github.com/biahudaom/biahudaom/blob/main/coding.svg"/>
 
 
 <h1 align="center">Hi 👋, I'm Tran Kim Dat</h1>
