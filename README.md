@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biahudaom&label=Profile%20views&color=0e75b6&style=flat" alt="biahudaom" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, MongoDB**
+- 🌱 I’m currently learning **ReactJS, MongoDB, Angular**
 
 - 🔭 I’m currently studying on **FPT University**
 
-- 💬 Ask me about **HTML, MERN**
+- 💬 Ask me about **HTML, MERN, Angular**
 
 - 📫 How to reach me **kimdat0705@gmail.com**
 
